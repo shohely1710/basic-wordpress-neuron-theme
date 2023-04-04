@@ -1,0 +1,41 @@
+/*
+Theme Name: Neuron Child
+Template: neuron
+Version: 1.0
+
+Text Domain: neuron-child
+
+*/
+
+
+
+/*
+====================================
+[ CSS TABLE CONTENT ]
+------------------------------------
+    1.0 - General
+    2.0 - Typography
+    3.0 - Global Style
+    4.0 - Header section 
+    5.0 - Slider area
+    6.0 - Block area
+    7.0 - Intro section
+    8.0 - Services area
+    9.0 - Client logo
+    10.0 - Accordian section
+    11.0 - Portfolio section
+    12.0 - Contact us
+    13.0 - Testimonial section
+    14.0 - Blog Section
+    15.0 - footer section
+
+-------------------------------------
+[ END CSS TABLE CONTENT ]
+=====================================
+*/
+
+
+.hidden-xs p{
+    text-transform: uppercase;
+    color: green;
+}
